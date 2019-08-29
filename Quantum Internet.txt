@@ -1,0 +1,13 @@
+Quantum Internet
+
+A internet quantica para que possamos entender, é necessário uma base sobre a 
+teoria da informação quantica 
+(https://www.youtube.com/watch?v=_N-2Sx-FDQA&feature=youtu.be)
+Disponível no link acima.
+Mas de forma resumida, ela não pode ser clonada mas pode ser sobrescritas, o que 
+somado a uma criptografia quantica traz uma segurança em altíssimo nivel para os
+usuarios. Outro benefício que poderia ser adquirido com a internet quântica seria
+o fim da dependência de memória física, uma vez que a velocidade pode ser dita como
+instântanea.
+A internet quântica traria para o mundo um avanço imenso, mas ainda existem alguns obstáculos
+a serem superados como o resfriamento, transporte de informações, etc.
